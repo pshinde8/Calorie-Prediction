@@ -1,1 +1,1 @@
-# Calorie-Prediction
+# QR- Code Generator
